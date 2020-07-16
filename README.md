@@ -35,7 +35,7 @@ I use python and its libraries with artificial intelligence and data science. Cu
 
 ![Nurettin's github stats](https://github-readme-stats.vercel.app/api?username=lynchez&show_icons=true&line_height=30)
 
-[![HitCount](http://hits.dwyl.com/isennkubilay/isennkubilay.svg)](http://hits.dwyl.com/isennkubilay/isennkubilay)
+[![HitCount](http://hits.dwyl.com/Lynchez/{project}.svg)](http://hits.dwyl.com/Lynchez/{project})
 
 
 <!--
