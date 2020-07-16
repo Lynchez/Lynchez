@@ -9,7 +9,7 @@ I use python and its libraries with artificial intelligence and data science. Cu
 
 **📫 Where to find me:** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nurettin Sinanoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
+[![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
 [![Gmail Badge](https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
 
 
