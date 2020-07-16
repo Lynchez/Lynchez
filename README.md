@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/WRjBTF8hCsumYdkPAj/giphy.gif" width="600px"></h2>
 
-Hi, I'm Nurettin. I have been working with software for 3 years. I spend most of my time in the field of Artificial Intelligence in the software, and if any, I write projects and participate in the studies.
+Hi, I'm Nurettin. I have been working with software for 4 years. I spend most of my time in the field of Artificial Intelligence in the software, and if any, I write projects and participate in the studies.
 
 I use python and its libraries with artificial intelligence and data science. Currently I continue to develop myself in image processing and deep learning continuation. I continue to evolve extensively in OpenCv, Tensorflow and Keras.
 
