@@ -32,17 +32,8 @@ I use python and its libraries with artificial intelligence and data science. Cu
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 
 
-**⛰ Looking forward to learn:** 
 
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-
-
-
-
-
-![Kubilay's github stats](https://github-readme-stats.vercel.app/api?username=isennkubilay&show_icons=true&line_height=30)
+![Nurettin's github stats](https://github-readme-stats.vercel.app/api?username=lynchez&show_icons=true&line_height=30)
 
 [![HitCount](http://hits.dwyl.com/isennkubilay/isennkubilay.svg)](http://hits.dwyl.com/isennkubilay/isennkubilay)
 
