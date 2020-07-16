@@ -7,7 +7,7 @@ Hi, I'm Nurettin. I have been working with software for 3 years. I spend most of
 I use python and its libraries with artificial intelligence and data science. Currently I continue to develop myself in image processing and deep learning continuation. I continue to evolve extensively in OpenCv, Tensorflow and Keras.
 
 
-**📫 Where to find me:** 
+**📫 Contact Me :** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-nurettinsinanoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
 [![Gmail Badge](https://img.shields.io/badge/-nurettin.sinanogluu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
@@ -15,12 +15,12 @@ I use python and its libraries with artificial intelligence and data science. Cu
 
 **💼 Currently working as:** Freelance Computer Vision Engineer
 
-**👨🏻‍💻 Currently working on:** 
+**👨🏻‍💻 Knowledge :** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 
-**💬 Ask me about:** 
+**💬 Frameworks :** 
 
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
@@ -38,17 +38,4 @@ I use python and its libraries with artificial intelligence and data science. Cu
 [![HitCount](http://hits.dwyl.com/Lynchez/{project}.svg)](http://hits.dwyl.com/Lynchez/{project})
 
 
-<!--
-**isennkubilay/isennkubilay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
