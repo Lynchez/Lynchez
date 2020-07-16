@@ -14,7 +14,7 @@ I use python and its libraries with artificial intelligence and data science. Cu
 [![Medium Badge](https://img.shields.io/badge/-nurettinsinanoglu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@nurettinsinanoglu)](https://medium.com/@nurettinsinanoglu)
 
 
-**💼 Currently working as:** Freelance Computer Vision Engineer
+**💼 Currently working as:** Freelancer as Computer Vision Engineer
 
 **👨🏻‍💻 Knowledge :** 
 
