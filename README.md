@@ -13,12 +13,12 @@ I use python and its libraries with artificial intelligence and data science. Cu
 [![Gmail Badge](https://img.shields.io/badge/-nurettin.sinanogluu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
 
 
-**💼 Currently working as:** Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>PiriReis Bilişim</b></a>
+**💼 Currently working as:** Freelance Computer Vision Engineer
 
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://www.oracle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
