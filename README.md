@@ -18,10 +18,7 @@ I use python and its libraries with artificial intelligence and data science. Cu
 **👨🏻‍💻 Currently working on:** 
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
-<code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://www.oracle.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
+<code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 
 **💬 Ask me about:** 
 
@@ -31,8 +28,8 @@ I use python and its libraries with artificial intelligence and data science. Cu
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-
-
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
 
 
 **⛰ Looking forward to learn:** 
