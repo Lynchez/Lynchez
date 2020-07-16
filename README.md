@@ -1,6 +1,6 @@
 ### Hello World! 
 
-<img src="https://media.giphy.com/media/WRjBTF8hCsumYdkPAj/giphy.gif" width="300px"></h2>
+<img src="https://media.giphy.com/media/WRjBTF8hCsumYdkPAj/giphy.gif" width="600px"></h2>
 
 Hi, I'm Nurettin. I have been working with software for 3 years. I spend most of my time in the field of Artificial Intelligence in the software, and if any, I write projects and participate in the studies.
 
