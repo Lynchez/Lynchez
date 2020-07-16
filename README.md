@@ -9,8 +9,8 @@ I use python and its libraries with artificial intelligence and data science. Cu
 
 **📫 Where to find me:** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-kubilayisen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
-[![Gmail Badge](https://img.shields.io/badge/-isen.kubilay@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-nurettinsinanoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
+[![Gmail Badge](https://img.shields.io/badge/-nurettin.sinanogluu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
 
 
 **💼 Currently working as:** Software Engineer at <a href="https://www.pirireis.com.tr/" target="_blank"><b>PiriReis Bilişim</b></a>
