@@ -9,9 +9,9 @@ I use python and its libraries with artificial intelligence and data science. Cu
 
 **📫 Contact Me :** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-nurettinsinanoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
-[![Gmail Badge](https://img.shields.io/badge/-nurettin.sinanogluu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-nurettinsinanoglu-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@nurettinsinanoglu)](https://medium.com/@nurettinsinanoglu)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-MEDIUM-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@nurettinsinanoglu)](https://medium.com/@nurettinsinanoglu)
 
 
 **💼 Currently working as:** Freelancer as Computer Vision Engineer
