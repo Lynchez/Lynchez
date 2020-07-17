@@ -13,6 +13,7 @@ I use python and its libraries with artificial intelligence and data science. Cu
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurettin.sinanogluu@gmail.com)](mailto:nurettin.sinanogluu@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-MEDIUM-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@nurettinsinanoglu)](https://medium.com/@nurettinsinanoglu)
 <a href="https://www.instagram.com/nurettinsinanoglu/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Facebook Badge](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/nurettinsinanoglu/)](https://www.linkedin.com/in/nurettinsinanoglu/) 
 
 
 **💼 Currently working as:** Freelancer as Computer Vision Engineer
