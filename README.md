@@ -23,6 +23,7 @@ I use python and its libraries with artificial intelligence and data science. Cu
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/09/c-plus-plus-logo.png"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://financesonline.com/uploads/2019/08/MATLAB-mathworks-logo1.png"></a></code>
 
 **💬 Frameworks :** 
 
